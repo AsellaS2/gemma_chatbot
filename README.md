@@ -2,12 +2,13 @@
 gemma api 를 활용한 자소서 작성 챗봇 만들기
 
 주제) 생성형 AI와 프레임워크를 활용하여 자소서를 작성해주는 생성형 챗봇을 만들고자 함
+
 배경)
 
 
 
-사용 프레임 워크)
-- langchain
+사용 기술)
+- gemma 2bit(llm)
   
 젬마는 트랜스포머 디코더 아키텍처를 기반으로 사전학습된 모델입니다.
 다른 거대 자연어 모델과 달리 google의 자체 기술로 경량화 시킨 자연어 모델이다.
@@ -25,6 +26,8 @@ gemma는 영어에 대해서만 사전 훈련되어 있기 때문에 영어 이�
 해당 모델에 추가 이력서 관련 데이터 셋을 학습시켜 '자기 소개서 작성'이라는 주제에 부합한 챗봇이 될 수 있도록 한다.
 
 [rag관련 이론 참고 블로그](https://inblog.ai/moondb/13538)
+
 [gemma 기술 문서](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
+
 [gemma 캐글](https://www.kaggle.com/models/google/gemma/)
 
