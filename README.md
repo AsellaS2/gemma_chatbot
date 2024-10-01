@@ -1,6 +1,7 @@
 # Gemma Chatbot
 
-![Header Image](./path/to/header_image.png)
+![Header Image](https://github.com/user-attachments/assets/c06dd030-ba9d-4906-9625-e3a3f316a9ba)
+)
 
 Gemma API를 활용한 자소서 작성 챗봇 만들기
 
